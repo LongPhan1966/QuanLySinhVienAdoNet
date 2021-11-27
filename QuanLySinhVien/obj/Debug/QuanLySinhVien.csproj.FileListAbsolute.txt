@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\BLL.dll
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.dll
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\BLL.pdb
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.pdb
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.dll
+C:\Users\USER\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.pdb
